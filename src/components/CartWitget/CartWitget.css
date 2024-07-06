@@ -1,0 +1,21 @@
+
+
+.carritoContenedor{
+    position: relative;
+}
+
+.carrito{
+    width: 30px;
+    
+}
+
+.badge{
+    font-size: 12px;
+    padding: 3px;
+    border-radius: 50%;
+    background-color: crimson;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%);
+}

@@ -1,0 +1,9 @@
+
+.itemList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffd60a;
+    background-color: #001d3d;
+    padding: 30px;
+}
